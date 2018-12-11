@@ -53,7 +53,7 @@ if($cfg && $cfg->isKnowledgebaseEnabled()){
 <?php
 $cats = Category::getFeatured();
 if ($cats->all()) { ?>
-<h1><?php echo __('Featured Knowledge Base Articles'); ?></h1>
+<h1><?php echo __('GBS Featured Knowledge Base Articles'); ?></h1>
 <?php
 }
 
