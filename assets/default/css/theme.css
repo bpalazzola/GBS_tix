@@ -14,8 +14,9 @@ body,
 input,
 select,
 textarea {
-  font-family: "Helvetica Neue", sans-serif;
-  color: #000;
+  font-family: "Trebuchet MS", sans-serif;
+  color: #eca807;
+  font-weight: bold;
 }
 b,
 strong {
