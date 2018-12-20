@@ -17,6 +17,7 @@ textarea {
   font-family: "Trebuchet MS", sans-serif;
   color: #eca807;
   font-weight: bold;
+  font-size: 12pt;
 }
 b,
 strong {
@@ -275,7 +276,7 @@ h2, .subject {
 .button:visited,
 .green.button,
 .green.button:visited {
-  background-color: #91bd09;
+  background-color: #bd0909;
 }
 .green.button:hover {
   background-color: #749a02;
