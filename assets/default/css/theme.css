@@ -15,7 +15,7 @@ input,
 select,
 textarea {
   font-family: "Trebuchet MS", sans-serif;
-  color: #eca807;
+  color: #ff0000;
   font-weight: bold;
   font-size: 12pt;
 }
@@ -276,14 +276,14 @@ h2, .subject {
 .button:visited,
 .green.button,
 .green.button:visited {
-  background-color: #bd0909;
+  background-color: #948383;
 }
 .green.button:hover {
   background-color: #749a02;
 }
 .blue.button,
 .blue.button:visited {
-  background-color: #00AEEF;
+  background-color: #f3af16;
 }
 .blue.button:hover {
   background-color: #0299d2;
@@ -292,7 +292,7 @@ body {
   background: url('../images/page_bg.png') top left repeat-x #c8c8c8;
 }
 #container {
-  background: #fff;
+  background: #000;
   width: 840px;
   margin: 0 auto;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
